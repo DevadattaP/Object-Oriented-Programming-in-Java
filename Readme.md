@@ -5,13 +5,13 @@ This repository contains a collection of practical programs implemented as part 
 ## Table of Contents
 
 - [Object-Oriented Programming in Java (Semester 3 - Computer Science Engineering, AI \& ML)](#object-oriented-programming-in-java-semester-3---computer-science-engineering-ai--ml)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Programs Included](#programs-included)
-  - [Prerequisites](#prerequisites)
-  - [How to Run](#how-to-run)
-    - [Program Descriptions](#program-descriptions)
-    - [Contributing](#contributing)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Programs Included](#programs-included)
+- [Prerequisites](#prerequisites)
+- [How to Run](#how-to-run)
+- [Program Descriptions](#program-descriptions)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -70,7 +70,7 @@ To run these programs, you'll need:
 - For programs involving AWT, Applet, or Swing, ensure your IDE supports GUI components.
 - Applets can be run using the appletviewer or by embedding them in an HTML file and viewing in a browser.
 
-### Program Descriptions
+## Program Descriptions
 1. Basic Programs
     - Armstrong Number: Checks if a number is an Armstrong number.
     - Largest of 3 Numbers: Finds the largest of three given numbers.
@@ -107,8 +107,8 @@ To run these programs, you'll need:
 15.   Calculator using Swing - Develops a basic calculator using Java Swing components.
 
 
-> [!INFO]
-> The example outputs of programs are given in the output folder. There, ou will also get idea how to execute the programs on command line.
+> [!NOTE]
+> The example outputs of programs are given in the output folder. There, you will also get idea how to execute the programs on command line.
 
-### Contributing
+## Contributing
 > Contributions are welcome! If you have any improvements or additional programs to add, feel free to fork the repository, make your changes, and submit a pull request.
